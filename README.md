@@ -10,7 +10,7 @@ This lab simulates a secure corporate environment connecting a **Remote Branch**
 * **VLANs:** 802.1Q Trunking, Inter-VLAN Routing (Router-on-a-Stick).
 
 ## 📐 Topology
-![Network Topology](images/)
+![Network Topology](Images/)
 
 ## 💡 Design Philosophy & Decisions
 
